@@ -1,4 +1,4 @@
-<img align="right" height="480" src="https://media.tenor.com/Ry9PSsQTcxoAAAAM/who-are-you-cat.gif" />
+<img align="right" height="440" src="https://media.tenor.com/Ry9PSsQTcxoAAAAM/who-are-you-cat.gif" />
 
 <h3 align="left">Hi 👋! My name is zhucssz and I'm a developer from Brazil!</h2>
 
