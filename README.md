@@ -1,6 +1,6 @@
 <img align="right" height="300" src="https://media.tenor.com/Ry9PSsQTcxoAAAAM/who-are-you-cat.gif" />
 
-<h3>Hi 👋! My name is zhucssz and I'm a Computer Science Student from Brazil!</h3>
+<h3>I'm a Computer Science Student from Brazil!</h3>
 
 ###
 
