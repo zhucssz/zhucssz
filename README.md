@@ -1,6 +1,6 @@
-<img align="right" height="300" src="https://media.tenor.com/Ry9PSsQTcxoAAAAM/who-are-you-cat.gif" />
+<img align="right" height="300" src="https://media.tenor.com/v5lxzTqe79AAAAAM/outer-wilds.gif" />
 
-<h3>I'm a Computer Science Student from Brazil!</h3>
+<h3>⋆˚࿔ 𝒘𝒆𝒍𝒄𝒐𝒎𝒆 𝜗𝜚˚⋆</h3>
 
 ###
 
